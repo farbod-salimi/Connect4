@@ -17,3 +17,5 @@ gcc -o connect4 connect4.c
 ```
 gcc -pthread -o connect4 connect4.c
 ```
+
+www.farbod-salimi.com
