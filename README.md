@@ -19,3 +19,4 @@ gcc -pthread -o connect4 connect4.c
 ```
 
 www.farbod-salimi.com
+info@farbod-salimi.com
